@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ravindra Kumar
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning HTML5, CSS3, BOOTSTRAP, JAVASCRIPT, JQUERY, WORDPRESS 
+- 🌱 I’m currently working in Mind Aviator Group Pvt Ltd as UI developer using HTML5, CSS3, BOOTSTRAP, JAVASCRIPT, JQUERY, REACT JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
